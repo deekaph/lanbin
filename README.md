@@ -1,6 +1,6 @@
 A simple pastebin style python server that lets you write over http without authentication.
 
-![demo of how it looks]([https://example.com/sunset.jpg](https://github.com/deekaph/lanbin/blob/main/lanbin2.png?raw=true))
+![demo of how it looks]((https://github.com/deekaph/lanbin/blob/main/lanbin2.png?raw=true))
 
 I wanted something like Pastebin for quick sharing between my various devices - my phone, a guest's laptop, my desktop, the kitchen computer.
 
@@ -28,7 +28,7 @@ It depends on flask and a few other things.
 Usage:
 ~# python3 lanbin.py
 
-![executing the python code]([https://example.com/sunset.jpg](https://github.com/deekaph/lanbin/blob/main/lanbin1.png?raw=true))
+![executing the python code]((https://github.com/deekaph/lanbin/blob/main/lanbin1.png?raw=true))
 
 If you try to run it and it's missing moduels, then install them with pip:
 
